@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { HomeComponent } from './components/home.component';\nimport { ProfileComponent } from './components/profile.component';\nexport const routes = [{\n  path: 'home',\n  component: HomeComponent\n}, {\n  path: 'profile',\n  component: ProfileComponent\n}];","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
