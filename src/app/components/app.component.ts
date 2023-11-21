@@ -17,6 +17,7 @@ import { ChangeDetectorRef } from '@angular/core';
       }      
     `],
     template: `
+    <h1>App Works</h1>
     <!--
         <h1>{{ title }}</h1>
         <div id="map">
